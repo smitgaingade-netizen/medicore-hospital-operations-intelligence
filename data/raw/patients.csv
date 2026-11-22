@@ -1,0 +1,1001 @@
+patient_id,age,gender,city,insurance_type
+P00001,9,Male,Navi Mumbai,Private
+P00002,70,Male,Pune,Government
+P00003,59,Male,Thane,Self-pay
+P00004,40,Male,Thane,Self-pay
+P00005,39,Male,Kalyan,Private
+P00006,78,Male,Thane,Private
+P00007,8,Female,Kalyan,Self-pay
+P00008,63,Male,Thane,Self-pay
+P00009,19,Male,Mumbai,Government
+P00010,9,Female,Kalyan,Government
+P00011,48,Female,Mumbai,Private
+P00012,88,Male,Mumbai,Private
+P00013,67,Female,Navi Mumbai,Private
+P00014,69,Female,Kalyan,Private
+P00015,65,Female,Dombivli,Private
+P00016,71,Female,Mumbai,Self-pay
+P00017,47,Female,Mumbai,Private
+P00018,12,Male,Pune,Private
+P00019,76,Female,Mumbai,Government
+P00020,41,Male,Mumbai,Private
+P00021,46,Male,Mumbai,Private
+P00022,34,Female,Thane,Government
+P00023,17,Female,Dombivli,Private
+P00024,84,Male,Kalyan,Government
+P00025,71,Female,Kalyan,Self-pay
+P00026,58,Female,Mumbai,Private
+P00027,37,Male,Thane,Self-pay
+P00028,75,Other/Undisclosed,Thane,Self-pay
+P00029,50,Male,Mumbai,Self-pay
+P00030,40,Female,Mumbai,Government
+P00031,41,Male,Mumbai,Government
+P00032,21,Male,Mumbai,Government
+P00033,9,Female,Navi Mumbai,Government
+P00034,50,Male,Kalyan,Private
+P00035,80,Female,Mumbai,Self-pay
+P00036,6,Female,Thane,Government
+P00037,78,Male,Kalyan,Self-pay
+P00038,75,Female,Kalyan,Private
+P00039,25,Female,Kalyan,Private
+P00040,57,Male,Thane,Government
+P00041,15,Other/Undisclosed,Dombivli,Government
+P00042,69,Male,Mumbai,Private
+P00043,64,Male,Thane,Private
+P00044,32,Other/Undisclosed,Mumbai,Private
+P00045,7,Female,Thane,Government
+P00046,88,Female,Thane,Private
+P00047,41,Female,Mumbai,Self-pay
+P00048,81,Female,Kalyan,Private
+P00049,62,Male,Mumbai,Private
+P00050,71,Female,Mumbai,Private
+P00051,69,Female,Mumbai,Government
+P00052,18,Female,Thane,Government
+P00053,33,Female,Mumbai,Government
+P00054,43,Male,Thane,Self-pay
+P00055,45,Female,Mumbai,Private
+P00056,4,Female,Kalyan,Government
+P00057,50,Female,Pune,Private
+P00058,14,Male,Thane,Private
+P00059,67,Male,Navi Mumbai,Private
+P00060,62,Male,Dombivli,Private
+P00061,84,Female,Pune,Government
+P00062,68,Female,Navi Mumbai,Government
+P00063,33,Male,Dombivli,Government
+P00064,88,Male,Dombivli,Government
+P00065,37,Male,Kalyan,Government
+P00066,30,Male,Thane,Private
+P00067,82,Male,Mumbai,Private
+P00068,34,Female,Mumbai,Private
+P00069,7,Female,Thane,Government
+P00070,43,Male,Thane,Self-pay
+P00071,72,Female,Thane,Private
+P00072,18,Male,Navi Mumbai,Government
+P00073,42,Female,Navi Mumbai,Self-pay
+P00074,12,Male,Dombivli,Self-pay
+P00075,62,Male,Mumbai,Government
+P00076,43,Male,Mumbai,Government
+P00077,30,Male,Kalyan,Government
+P00078,21,Male,Dombivli,Self-pay
+P00079,51,Male,Pune,Private
+P00080,61,Female,Dombivli,Self-pay
+P00081,85,Male,Dombivli,Private
+P00082,40,Male,Mumbai,Self-pay
+P00083,15,Female,Thane,Private
+P00084,75,Female,Mumbai,Private
+P00085,57,Male,Navi Mumbai,Private
+P00086,64,Male,Pune,Private
+P00087,9,Female,Thane,Private
+P00088,29,Female,Navi Mumbai,Private
+P00089,70,Female,Mumbai,Private
+P00090,75,Female,Mumbai,Private
+P00091,40,Male,Mumbai,Self-pay
+P00092,73,Female,Mumbai,Self-pay
+P00093,76,Female,Pune,Government
+P00094,35,Male,Thane,Private
+P00095,81,Female,Dombivli,Private
+P00096,26,Female,Navi Mumbai,Self-pay
+P00097,22,Male,Mumbai,Private
+P00098,62,Male,Mumbai,Private
+P00099,58,Other/Undisclosed,Kalyan,Self-pay
+P00100,13,Male,Mumbai,Self-pay
+P00101,75,Female,Dombivli,Private
+P00102,18,Male,Mumbai,Government
+P00103,73,Male,Navi Mumbai,Private
+P00104,1,Male,Kalyan,Self-pay
+P00105,72,Male,Mumbai,Private
+P00106,71,Male,Mumbai,Private
+P00107,71,Male,Pune,Government
+P00108,60,Female,Mumbai,Private
+P00109,43,Male,Thane,Government
+P00110,64,Female,Thane,Private
+P00111,25,Male,Mumbai,Self-pay
+P00112,71,Male,Kalyan,Self-pay
+P00113,51,Male,Kalyan,Government
+P00114,42,Other/Undisclosed,Thane,Self-pay
+P00115,46,Female,Dombivli,Private
+P00116,52,Male,Mumbai,Government
+P00117,4,Male,Mumbai,Private
+P00118,13,Female,Navi Mumbai,Self-pay
+P00119,23,Female,Pune,Self-pay
+P00120,11,Female,Mumbai,Self-pay
+P00121,40,Male,Mumbai,Self-pay
+P00122,61,Female,Thane,Self-pay
+P00123,59,Other/Undisclosed,Kalyan,Private
+P00124,43,Female,Mumbai,Self-pay
+P00125,77,Male,Thane,Government
+P00126,51,Female,Kalyan,Private
+P00127,8,Male,Thane,Government
+P00128,69,Female,Mumbai,Private
+P00129,52,Male,Mumbai,Private
+P00130,58,Male,Thane,Private
+P00131,51,Male,Thane,Private
+P00132,50,Male,Dombivli,Government
+P00133,9,Female,Navi Mumbai,Self-pay
+P00134,51,Female,Navi Mumbai,Government
+P00135,72,Female,Pune,Government
+P00136,28,Female,Thane,Private
+P00137,55,Male,Thane,Private
+P00138,3,Male,Pune,Private
+P00139,32,Male,Mumbai,Self-pay
+P00140,40,Male,Kalyan,Private
+P00141,89,Male,Kalyan,Government
+P00142,20,Male,Mumbai,Self-pay
+P00143,25,Female,Thane,Government
+P00144,37,Female,Mumbai,Self-pay
+P00145,90,Male,Mumbai,Private
+P00146,77,Male,Thane,Self-pay
+P00147,4,Female,Mumbai,Government
+P00148,22,Male,Kalyan,Self-pay
+P00149,74,Male,Dombivli,Government
+P00150,6,Female,Kalyan,Self-pay
+P00151,78,Female,Mumbai,Self-pay
+P00152,26,Male,Mumbai,Private
+P00153,83,Male,Mumbai,Self-pay
+P00154,27,Female,Mumbai,Government
+P00155,40,Male,Pune,Private
+P00156,60,Female,Thane,Self-pay
+P00157,12,Male,Mumbai,Private
+P00158,51,Female,Dombivli,Government
+P00159,46,Male,Thane,Private
+P00160,71,Female,Mumbai,Private
+P00161,90,Female,Mumbai,Self-pay
+P00162,60,Male,Navi Mumbai,Private
+P00163,37,Female,Kalyan,Private
+P00164,37,Female,Mumbai,Private
+P00165,38,Female,Dombivli,Government
+P00166,74,Male,Dombivli,Self-pay
+P00167,29,Male,Dombivli,Self-pay
+P00168,16,Other/Undisclosed,Mumbai,Private
+P00169,31,Female,Mumbai,Government
+P00170,3,Female,Dombivli,Private
+P00171,10,Female,Mumbai,Government
+P00172,9,Male,Navi Mumbai,Private
+P00173,70,Other/Undisclosed,Kalyan,Private
+P00174,66,Male,Mumbai,Private
+P00175,63,Male,Kalyan,Government
+P00176,42,Female,Pune,Government
+P00177,65,Male,Kalyan,Private
+P00178,15,Male,Thane,Self-pay
+P00179,82,Female,Dombivli,Government
+P00180,46,Female,Thane,Private
+P00181,85,Female,Kalyan,Self-pay
+P00182,14,Female,Dombivli,Self-pay
+P00183,45,Female,Kalyan,Private
+P00184,63,Female,Mumbai,Government
+P00185,45,Male,Mumbai,Private
+P00186,41,Female,Mumbai,Government
+P00187,15,Female,Thane,Private
+P00188,35,Male,Thane,Government
+P00189,22,Male,Navi Mumbai,Private
+P00190,28,Male,Thane,Government
+P00191,62,Female,Kalyan,Self-pay
+P00192,57,Male,Dombivli,Private
+P00193,55,Female,Mumbai,Self-pay
+P00194,33,Female,Kalyan,Self-pay
+P00195,87,Male,Navi Mumbai,Self-pay
+P00196,8,Male,Thane,Private
+P00197,31,Male,Mumbai,Self-pay
+P00198,11,Male,Kalyan,Private
+P00199,31,Male,Pune,Private
+P00200,87,Female,Kalyan,Self-pay
+P00201,33,Female,Dombivli,Government
+P00202,82,Female,Pune,Government
+P00203,45,Female,Thane,Private
+P00204,63,Male,Navi Mumbai,Self-pay
+P00205,42,Female,Thane,Government
+P00206,24,Male,Pune,Private
+P00207,69,Male,Mumbai,Self-pay
+P00208,88,Male,Thane,Private
+P00209,24,Female,Dombivli,Private
+P00210,71,Female,Mumbai,Government
+P00211,24,Other/Undisclosed,Kalyan,Self-pay
+P00212,65,Male,Thane,Private
+P00213,72,Male,Pune,Private
+P00214,41,Male,Dombivli,Private
+P00215,67,Male,Mumbai,Self-pay
+P00216,25,Female,Kalyan,Private
+P00217,8,Male,Mumbai,Government
+P00218,9,Female,Navi Mumbai,Self-pay
+P00219,41,Male,Navi Mumbai,Private
+P00220,82,Male,Dombivli,Government
+P00221,12,Male,Mumbai,Government
+P00222,42,Female,Mumbai,Self-pay
+P00223,64,Female,Kalyan,Private
+P00224,19,Male,Navi Mumbai,Private
+P00225,65,Female,Thane,Private
+P00226,28,Female,Mumbai,Government
+P00227,73,Female,Thane,Self-pay
+P00228,53,Female,Dombivli,Private
+P00229,50,Female,Mumbai,Private
+P00230,16,Male,Thane,Self-pay
+P00231,42,Female,Pune,Private
+P00232,78,Female,Mumbai,Private
+P00233,2,Female,Kalyan,Government
+P00234,69,Female,Mumbai,Private
+P00235,45,Female,Dombivli,Private
+P00236,65,Male,Kalyan,Private
+P00237,60,Female,Dombivli,Private
+P00238,39,Female,Mumbai,Government
+P00239,28,Female,Thane,Government
+P00240,57,Female,Kalyan,Government
+P00241,13,Female,Mumbai,Private
+P00242,53,Female,Mumbai,Self-pay
+P00243,9,Male,Mumbai,Private
+P00244,59,Female,Pune,Self-pay
+P00245,57,Male,Kalyan,Private
+P00246,8,Female,Navi Mumbai,Self-pay
+P00247,69,Female,Kalyan,Private
+P00248,38,Female,Thane,Private
+P00249,71,Male,Thane,Government
+P00250,4,Male,Thane,Private
+P00251,17,Female,Navi Mumbai,Private
+P00252,45,Female,Mumbai,Government
+P00253,17,Female,Dombivli,Self-pay
+P00254,30,Female,Kalyan,Private
+P00255,60,Male,Thane,Self-pay
+P00256,14,Female,Navi Mumbai,Self-pay
+P00257,61,Female,Mumbai,Self-pay
+P00258,10,Male,Pune,Government
+P00259,16,Female,Dombivli,Government
+P00260,53,Female,Pune,Government
+P00261,72,Male,Mumbai,Government
+P00262,16,Female,Mumbai,Self-pay
+P00263,27,Female,Mumbai,Private
+P00264,84,Female,Mumbai,Private
+P00265,90,Male,Mumbai,Private
+P00266,53,Female,Mumbai,Self-pay
+P00267,41,Female,Pune,Private
+P00268,32,Female,Mumbai,Government
+P00269,56,Female,Mumbai,Self-pay
+P00270,54,Male,Dombivli,Self-pay
+P00271,27,Female,Navi Mumbai,Private
+P00272,3,Male,Kalyan,Self-pay
+P00273,14,Male,Navi Mumbai,Self-pay
+P00274,87,Male,Dombivli,Private
+P00275,38,Female,Navi Mumbai,Self-pay
+P00276,44,Male,Thane,Private
+P00277,43,Male,Kalyan,Government
+P00278,71,Female,Thane,Government
+P00279,6,Male,Thane,Private
+P00280,8,Male,Thane,Private
+P00281,25,Female,Mumbai,Private
+P00282,44,Male,Kalyan,Private
+P00283,61,Female,Mumbai,Government
+P00284,45,Male,Mumbai,Private
+P00285,40,Other/Undisclosed,Mumbai,Private
+P00286,85,Female,Dombivli,Government
+P00287,15,Male,Mumbai,Government
+P00288,52,Female,Navi Mumbai,Government
+P00289,49,Male,Dombivli,Self-pay
+P00290,43,Male,Mumbai,Private
+P00291,73,Female,Kalyan,Self-pay
+P00292,25,Female,Mumbai,Private
+P00293,86,Female,Mumbai,Government
+P00294,30,Female,Navi Mumbai,Self-pay
+P00295,50,Female,Dombivli,Self-pay
+P00296,47,Female,Mumbai,Government
+P00297,77,Female,Navi Mumbai,Government
+P00298,40,Female,Mumbai,Private
+P00299,26,Male,Navi Mumbai,Government
+P00300,2,Male,Navi Mumbai,Self-pay
+P00301,33,Male,Navi Mumbai,Self-pay
+P00302,75,Female,Navi Mumbai,Government
+P00303,1,Male,Mumbai,Private
+P00304,81,Male,Navi Mumbai,Government
+P00305,49,Female,Navi Mumbai,Private
+P00306,13,Female,Navi Mumbai,Private
+P00307,28,Male,Mumbai,Private
+P00308,50,Female,Thane,Government
+P00309,29,Male,Thane,Private
+P00310,10,Other/Undisclosed,Mumbai,Private
+P00311,60,Female,Mumbai,Private
+P00312,61,Female,Thane,Self-pay
+P00313,11,Other/Undisclosed,Kalyan,Government
+P00314,26,Male,Mumbai,Private
+P00315,22,Female,Dombivli,Private
+P00316,60,Male,Navi Mumbai,Government
+P00317,66,Male,Kalyan,Private
+P00318,66,Male,Thane,Government
+P00319,85,Male,Thane,Private
+P00320,70,Female,Navi Mumbai,Self-pay
+P00321,29,Female,Pune,Private
+P00322,10,Male,Thane,Government
+P00323,56,Female,Thane,Private
+P00324,83,Male,Navi Mumbai,Self-pay
+P00325,88,Male,Kalyan,Self-pay
+P00326,21,Female,Mumbai,Government
+P00327,22,Male,Thane,Private
+P00328,4,Female,Thane,Private
+P00329,13,Male,Pune,Self-pay
+P00330,50,Female,Thane,Government
+P00331,50,Male,Thane,Private
+P00332,34,Male,Pune,Private
+P00333,28,Female,Thane,Private
+P00334,75,Male,Mumbai,Self-pay
+P00335,42,Male,Mumbai,Government
+P00336,73,Male,Mumbai,Government
+P00337,87,Male,Mumbai,Government
+P00338,29,Other/Undisclosed,Thane,Private
+P00339,19,Female,Kalyan,Private
+P00340,86,Male,Kalyan,Private
+P00341,58,Female,Mumbai,Self-pay
+P00342,27,Male,Navi Mumbai,Private
+P00343,56,Male,Mumbai,Private
+P00344,47,Female,Pune,Private
+P00345,82,Female,Mumbai,Private
+P00346,24,Male,Navi Mumbai,Government
+P00347,90,Female,Mumbai,Private
+P00348,85,Male,Navi Mumbai,Private
+P00349,17,Female,Thane,Self-pay
+P00350,15,Male,Kalyan,Private
+P00351,48,Female,Mumbai,Private
+P00352,5,Female,Dombivli,Private
+P00353,27,Male,Thane,Self-pay
+P00354,40,Male,Kalyan,Private
+P00355,88,Female,Dombivli,Self-pay
+P00356,90,Female,Pune,Self-pay
+P00357,14,Male,Mumbai,Government
+P00358,81,Male,Mumbai,Private
+P00359,9,Female,Mumbai,Government
+P00360,68,Male,Mumbai,Private
+P00361,77,Male,Navi Mumbai,Private
+P00362,81,Male,Pune,Government
+P00363,21,Male,Pune,Private
+P00364,81,Male,Thane,Private
+P00365,11,Female,Navi Mumbai,Private
+P00366,47,Male,Dombivli,Private
+P00367,43,Male,Pune,Private
+P00368,29,Male,Mumbai,Government
+P00369,2,Female,Thane,Self-pay
+P00370,70,Female,Dombivli,Private
+P00371,31,Male,Mumbai,Government
+P00372,60,Female,Thane,Private
+P00373,37,Male,Pune,Private
+P00374,34,Female,Pune,Private
+P00375,80,Male,Dombivli,Private
+P00376,9,Male,Kalyan,Private
+P00377,67,Female,Mumbai,Private
+P00378,68,Female,Mumbai,Private
+P00379,35,Male,Navi Mumbai,Government
+P00380,24,Male,Navi Mumbai,Private
+P00381,1,Female,Thane,Private
+P00382,85,Male,Navi Mumbai,Private
+P00383,86,Male,Thane,Government
+P00384,22,Female,Kalyan,Private
+P00385,3,Female,Mumbai,Government
+P00386,12,Female,Mumbai,Private
+P00387,7,Female,Mumbai,Private
+P00388,75,Female,Mumbai,Self-pay
+P00389,81,Female,Dombivli,Private
+P00390,14,Male,Thane,Private
+P00391,68,Female,Mumbai,Private
+P00392,17,Male,Kalyan,Self-pay
+P00393,34,Female,Navi Mumbai,Government
+P00394,54,Female,Mumbai,Government
+P00395,65,Male,Mumbai,Self-pay
+P00396,79,Male,Mumbai,Private
+P00397,5,Female,Navi Mumbai,Self-pay
+P00398,18,Female,Mumbai,Private
+P00399,26,Female,Mumbai,Government
+P00400,28,Male,Mumbai,Private
+P00401,90,Female,Navi Mumbai,Private
+P00402,70,Female,Mumbai,Self-pay
+P00403,29,Female,Dombivli,Private
+P00404,88,Female,Mumbai,Self-pay
+P00405,45,Male,Navi Mumbai,Private
+P00406,46,Male,Thane,Government
+P00407,40,Male,Thane,Self-pay
+P00408,13,Female,Mumbai,Private
+P00409,85,Female,Kalyan,Self-pay
+P00410,2,Female,Dombivli,Government
+P00411,16,Male,Mumbai,Government
+P00412,21,Male,Mumbai,Private
+P00413,26,Male,Dombivli,Government
+P00414,12,Other/Undisclosed,Navi Mumbai,Government
+P00415,2,Other/Undisclosed,Mumbai,Private
+P00416,61,Male,Mumbai,Private
+P00417,88,Female,Navi Mumbai,Private
+P00418,11,Female,Kalyan,Self-pay
+P00419,27,Female,Navi Mumbai,Private
+P00420,46,Male,Pune,Government
+P00421,84,Female,Thane,Self-pay
+P00422,63,Male,Mumbai,Private
+P00423,69,Male,Thane,Private
+P00424,53,Male,Thane,Government
+P00425,38,Female,Mumbai,Private
+P00426,18,Female,Mumbai,Government
+P00427,78,Female,Thane,Government
+P00428,73,Male,Kalyan,Government
+P00429,3,Male,Mumbai,Private
+P00430,65,Male,Thane,Government
+P00431,8,Female,Navi Mumbai,Government
+P00432,67,Female,Navi Mumbai,Private
+P00433,75,Female,Kalyan,Government
+P00434,12,Male,Kalyan,Self-pay
+P00435,40,Male,Kalyan,Government
+P00436,12,Female,Mumbai,Private
+P00437,52,Male,Thane,Private
+P00438,84,Female,Navi Mumbai,Private
+P00439,8,Male,Mumbai,Private
+P00440,36,Female,Mumbai,Private
+P00441,88,Female,Mumbai,Self-pay
+P00442,28,Male,Thane,Private
+P00443,12,Female,Thane,Self-pay
+P00444,44,Female,Mumbai,Private
+P00445,46,Female,Dombivli,Private
+P00446,60,Female,Pune,Private
+P00447,29,Male,Mumbai,Private
+P00448,87,Male,Pune,Self-pay
+P00449,47,Male,Mumbai,Self-pay
+P00450,26,Female,Pune,Self-pay
+P00451,87,Male,Pune,Private
+P00452,84,Female,Mumbai,Self-pay
+P00453,45,Female,Kalyan,Private
+P00454,3,Female,Pune,Self-pay
+P00455,54,Male,Dombivli,Government
+P00456,50,Male,Pune,Private
+P00457,14,Male,Navi Mumbai,Private
+P00458,58,Male,Mumbai,Private
+P00459,76,Male,Dombivli,Private
+P00460,10,Male,Navi Mumbai,Self-pay
+P00461,66,Male,Navi Mumbai,Self-pay
+P00462,13,Female,Thane,Self-pay
+P00463,68,Female,Navi Mumbai,Private
+P00464,38,Female,Mumbai,Government
+P00465,1,Male,Kalyan,Private
+P00466,87,Female,Mumbai,Government
+P00467,15,Male,Kalyan,Private
+P00468,54,Female,Dombivli,Private
+P00469,17,Male,Thane,Government
+P00470,84,Female,Thane,Private
+P00471,67,Female,Mumbai,Private
+P00472,73,Female,Pune,Government
+P00473,39,Female,Kalyan,Private
+P00474,43,Male,Thane,Self-pay
+P00475,58,Female,Mumbai,Government
+P00476,71,Male,Mumbai,Self-pay
+P00477,77,Female,Thane,Government
+P00478,2,Female,Pune,Government
+P00479,60,Male,Kalyan,Government
+P00480,10,Female,Mumbai,Self-pay
+P00481,26,Other/Undisclosed,Dombivli,Government
+P00482,75,Male,Thane,Private
+P00483,23,Male,Dombivli,Private
+P00484,72,Female,Mumbai,Government
+P00485,42,Female,Navi Mumbai,Private
+P00486,21,Male,Pune,Private
+P00487,31,Female,Mumbai,Private
+P00488,48,Female,Navi Mumbai,Government
+P00489,69,Female,Pune,Private
+P00490,55,Male,Mumbai,Government
+P00491,84,Male,Mumbai,Self-pay
+P00492,79,Male,Navi Mumbai,Self-pay
+P00493,68,Male,Mumbai,Private
+P00494,55,Female,Mumbai,Government
+P00495,27,Male,Thane,Government
+P00496,38,Female,Kalyan,Private
+P00497,11,Male,Mumbai,Government
+P00498,34,Female,Mumbai,Private
+P00499,84,Other/Undisclosed,Dombivli,Self-pay
+P00500,39,Female,Thane,Private
+P00501,11,Female,Dombivli,Self-pay
+P00502,59,Female,Thane,Government
+P00503,87,Female,Pune,Private
+P00504,79,Female,Navi Mumbai,Government
+P00505,25,Male,Mumbai,Private
+P00506,41,Female,Dombivli,Self-pay
+P00507,48,Male,Thane,Government
+P00508,23,Female,Mumbai,Private
+P00509,25,Male,Mumbai,Private
+P00510,22,Female,Navi Mumbai,Self-pay
+P00511,90,Male,Mumbai,Private
+P00512,68,Male,Mumbai,Self-pay
+P00513,76,Female,Mumbai,Self-pay
+P00514,74,Male,Thane,Government
+P00515,87,Female,Thane,Private
+P00516,10,Female,Thane,Government
+P00517,80,Male,Mumbai,Self-pay
+P00518,6,Male,Mumbai,Private
+P00519,43,Female,Navi Mumbai,Private
+P00520,54,Female,Thane,Private
+P00521,33,Male,Navi Mumbai,Private
+P00522,14,Male,Mumbai,Government
+P00523,18,Other/Undisclosed,Mumbai,Private
+P00524,75,Male,Mumbai,Government
+P00525,29,Male,Thane,Private
+P00526,28,Female,Thane,Private
+P00527,84,Male,Kalyan,Private
+P00528,13,Female,Thane,Self-pay
+P00529,83,Male,Thane,Government
+P00530,83,Female,Navi Mumbai,Private
+P00531,54,Male,Mumbai,Self-pay
+P00532,15,Male,Thane,Private
+P00533,15,Male,Thane,Private
+P00534,26,Male,Thane,Private
+P00535,52,Female,Mumbai,Self-pay
+P00536,14,Male,Kalyan,Government
+P00537,42,Female,Pune,Government
+P00538,11,Female,Mumbai,Private
+P00539,49,Female,Navi Mumbai,Private
+P00540,2,Female,Kalyan,Government
+P00541,64,Female,Mumbai,Private
+P00542,5,Male,Kalyan,Self-pay
+P00543,18,Male,Navi Mumbai,Self-pay
+P00544,16,Male,Pune,Private
+P00545,75,Female,Pune,Government
+P00546,5,Female,Mumbai,Self-pay
+P00547,39,Female,Thane,Private
+P00548,54,Male,Navi Mumbai,Government
+P00549,47,Male,Mumbai,Self-pay
+P00550,62,Female,Mumbai,Private
+P00551,73,Male,Pune,Self-pay
+P00552,36,Female,Mumbai,Private
+P00553,75,Female,Thane,Government
+P00554,29,Female,Dombivli,Self-pay
+P00555,89,Female,Mumbai,Government
+P00556,46,Male,Thane,Government
+P00557,67,Male,Pune,Government
+P00558,79,Female,Thane,Private
+P00559,72,Male,Mumbai,Private
+P00560,77,Male,Mumbai,Private
+P00561,49,Male,Pune,Government
+P00562,4,Male,Mumbai,Private
+P00563,45,Female,Thane,Private
+P00564,17,Male,Mumbai,Self-pay
+P00565,81,Female,Thane,Private
+P00566,22,Male,Pune,Private
+P00567,21,Female,Thane,Private
+P00568,23,Male,Pune,Private
+P00569,58,Female,Mumbai,Government
+P00570,52,Female,Thane,Private
+P00571,86,Male,Dombivli,Private
+P00572,38,Male,Thane,Self-pay
+P00573,26,Female,Mumbai,Self-pay
+P00574,5,Male,Dombivli,Government
+P00575,1,Male,Thane,Self-pay
+P00576,34,Female,Thane,Self-pay
+P00577,84,Male,Pune,Private
+P00578,48,Female,Mumbai,Government
+P00579,81,Male,Mumbai,Government
+P00580,10,Female,Mumbai,Private
+P00581,9,Female,Thane,Private
+P00582,76,Male,Mumbai,Private
+P00583,10,Male,Navi Mumbai,Government
+P00584,5,Male,Mumbai,Self-pay
+P00585,37,Male,Navi Mumbai,Self-pay
+P00586,84,Male,Mumbai,Private
+P00587,63,Male,Thane,Private
+P00588,9,Male,Thane,Private
+P00589,76,Female,Kalyan,Government
+P00590,76,Female,Thane,Self-pay
+P00591,73,Female,Thane,Self-pay
+P00592,82,Male,Dombivli,Self-pay
+P00593,22,Female,Navi Mumbai,Self-pay
+P00594,89,Female,Mumbai,Self-pay
+P00595,29,Male,Dombivli,Private
+P00596,73,Female,Thane,Private
+P00597,53,Female,Mumbai,Private
+P00598,71,Male,Thane,Private
+P00599,57,Male,Mumbai,Private
+P00600,58,Female,Mumbai,Private
+P00601,56,Female,Kalyan,Self-pay
+P00602,71,Female,Mumbai,Private
+P00603,67,Male,Kalyan,Self-pay
+P00604,13,Male,Pune,Self-pay
+P00605,75,Female,Navi Mumbai,Government
+P00606,49,Male,Kalyan,Government
+P00607,30,Female,Kalyan,Private
+P00608,47,Female,Pune,Government
+P00609,88,Other/Undisclosed,Thane,Private
+P00610,78,Female,Mumbai,Self-pay
+P00611,76,Female,Thane,Private
+P00612,42,Female,Thane,Private
+P00613,71,Male,Mumbai,Government
+P00614,35,Male,Navi Mumbai,Government
+P00615,62,Other/Undisclosed,Mumbai,Private
+P00616,58,Female,Pune,Government
+P00617,23,Female,Mumbai,Private
+P00618,24,Male,Mumbai,Government
+P00619,6,Female,Mumbai,Private
+P00620,13,Male,Mumbai,Private
+P00621,40,Male,Mumbai,Private
+P00622,44,Female,Mumbai,Private
+P00623,15,Male,Mumbai,Private
+P00624,38,Female,Mumbai,Private
+P00625,55,Female,Thane,Private
+P00626,21,Male,Thane,Private
+P00627,31,Male,Mumbai,Government
+P00628,34,Male,Mumbai,Private
+P00629,46,Male,Mumbai,Government
+P00630,33,Other/Undisclosed,Mumbai,Self-pay
+P00631,67,Other/Undisclosed,Mumbai,Private
+P00632,30,Male,Kalyan,Self-pay
+P00633,40,Female,Pune,Private
+P00634,35,Male,Pune,Private
+P00635,17,Male,Thane,Government
+P00636,62,Female,Thane,Self-pay
+P00637,22,Female,Mumbai,Self-pay
+P00638,27,Female,Kalyan,Private
+P00639,72,Female,Kalyan,Self-pay
+P00640,86,Male,Dombivli,Private
+P00641,61,Female,Dombivli,Private
+P00642,83,Male,Thane,Private
+P00643,77,Male,Kalyan,Self-pay
+P00644,44,Male,Kalyan,Private
+P00645,70,Female,Mumbai,Self-pay
+P00646,30,Female,Pune,Government
+P00647,42,Male,Mumbai,Government
+P00648,49,Male,Pune,Government
+P00649,87,Male,Kalyan,Self-pay
+P00650,77,Male,Mumbai,Private
+P00651,45,Female,Navi Mumbai,Private
+P00652,59,Male,Mumbai,Government
+P00653,19,Female,Kalyan,Private
+P00654,73,Female,Kalyan,Private
+P00655,50,Male,Navi Mumbai,Private
+P00656,48,Female,Dombivli,Private
+P00657,69,Female,Mumbai,Private
+P00658,57,Female,Mumbai,Private
+P00659,7,Female,Thane,Self-pay
+P00660,26,Male,Mumbai,Private
+P00661,16,Female,Thane,Self-pay
+P00662,67,Male,Mumbai,Self-pay
+P00663,4,Male,Thane,Private
+P00664,19,Female,Thane,Government
+P00665,54,Female,Dombivli,Government
+P00666,63,Male,Mumbai,Government
+P00667,46,Male,Dombivli,Private
+P00668,78,Male,Thane,Private
+P00669,83,Male,Mumbai,Private
+P00670,12,Female,Thane,Government
+P00671,86,Female,Thane,Self-pay
+P00672,56,Male,Mumbai,Government
+P00673,58,Female,Thane,Government
+P00674,9,Male,Mumbai,Self-pay
+P00675,56,Male,Thane,Government
+P00676,66,Male,Navi Mumbai,Private
+P00677,53,Female,Thane,Self-pay
+P00678,8,Female,Dombivli,Private
+P00679,48,Female,Mumbai,Private
+P00680,85,Female,Pune,Government
+P00681,66,Male,Kalyan,Self-pay
+P00682,13,Female,Pune,Private
+P00683,87,Female,Dombivli,Government
+P00684,87,Female,Mumbai,Private
+P00685,16,Female,Thane,Private
+P00686,73,Male,Mumbai,Private
+P00687,37,Female,Kalyan,Government
+P00688,54,Other/Undisclosed,Navi Mumbai,Self-pay
+P00689,41,Female,Mumbai,Private
+P00690,71,Male,Pune,Private
+P00691,90,Female,Mumbai,Private
+P00692,72,Female,Navi Mumbai,Private
+P00693,84,Male,Kalyan,Government
+P00694,86,Male,Mumbai,Government
+P00695,9,Male,Navi Mumbai,Government
+P00696,23,Female,Kalyan,Private
+P00697,65,Female,Mumbai,Government
+P00698,54,Male,Thane,Private
+P00699,5,Female,Mumbai,Private
+P00700,9,Male,Navi Mumbai,Self-pay
+P00701,47,Male,Mumbai,Self-pay
+P00702,56,Male,Pune,Self-pay
+P00703,16,Male,Dombivli,Self-pay
+P00704,16,Male,Mumbai,Government
+P00705,12,Female,Mumbai,Self-pay
+P00706,51,Female,Navi Mumbai,Private
+P00707,1,Male,Kalyan,Private
+P00708,52,Female,Thane,Private
+P00709,43,Female,Mumbai,Private
+P00710,42,Female,Mumbai,Private
+P00711,62,Male,Pune,Private
+P00712,48,Male,Thane,Government
+P00713,66,Male,Dombivli,Self-pay
+P00714,69,Female,Thane,Government
+P00715,83,Female,Pune,Private
+P00716,72,Male,Mumbai,Government
+P00717,47,Female,Mumbai,Private
+P00718,45,Male,Pune,Private
+P00719,22,Male,Pune,Private
+P00720,54,Female,Mumbai,Private
+P00721,13,Female,Thane,Private
+P00722,84,Female,Thane,Self-pay
+P00723,77,Male,Thane,Self-pay
+P00724,11,Male,Mumbai,Government
+P00725,71,Female,Dombivli,Private
+P00726,11,Male,Mumbai,Self-pay
+P00727,65,Female,Kalyan,Government
+P00728,8,Female,Mumbai,Private
+P00729,44,Male,Mumbai,Government
+P00730,60,Female,Navi Mumbai,Government
+P00731,66,Female,Mumbai,Private
+P00732,38,Male,Navi Mumbai,Private
+P00733,83,Female,Mumbai,Government
+P00734,70,Male,Pune,Private
+P00735,19,Female,Kalyan,Private
+P00736,61,Female,Dombivli,Private
+P00737,66,Female,Mumbai,Self-pay
+P00738,31,Female,Mumbai,Private
+P00739,67,Female,Thane,Private
+P00740,81,Female,Thane,Private
+P00741,74,Male,Mumbai,Self-pay
+P00742,69,Female,Mumbai,Government
+P00743,58,Female,Thane,Self-pay
+P00744,25,Female,Mumbai,Private
+P00745,72,Female,Thane,Private
+P00746,33,Female,Mumbai,Government
+P00747,48,Male,Mumbai,Private
+P00748,29,Female,Navi Mumbai,Self-pay
+P00749,29,Male,Thane,Self-pay
+P00750,15,Male,Thane,Private
+P00751,87,Female,Thane,Self-pay
+P00752,14,Female,Kalyan,Government
+P00753,8,Female,Thane,Private
+P00754,85,Male,Navi Mumbai,Government
+P00755,50,Female,Pune,Private
+P00756,40,Male,Thane,Self-pay
+P00757,67,Male,Dombivli,Private
+P00758,35,Male,Kalyan,Private
+P00759,12,Male,Mumbai,Government
+P00760,66,Other/Undisclosed,Thane,Private
+P00761,16,Female,Navi Mumbai,Private
+P00762,50,Female,Pune,Government
+P00763,86,Female,Thane,Private
+P00764,85,Male,Mumbai,Private
+P00765,33,Male,Navi Mumbai,Private
+P00766,71,Male,Mumbai,Private
+P00767,56,Female,Kalyan,Private
+P00768,44,Male,Thane,Self-pay
+P00769,13,Male,Kalyan,Self-pay
+P00770,34,Male,Dombivli,Private
+P00771,59,Male,Navi Mumbai,Self-pay
+P00772,89,Female,Navi Mumbai,Government
+P00773,1,Female,Kalyan,Government
+P00774,65,Male,Dombivli,Government
+P00775,77,Female,Dombivli,Government
+P00776,86,Female,Mumbai,Self-pay
+P00777,39,Female,Navi Mumbai,Government
+P00778,11,Female,Mumbai,Government
+P00779,25,Male,Dombivli,Private
+P00780,77,Male,Navi Mumbai,Private
+P00781,80,Female,Thane,Government
+P00782,58,Female,Mumbai,Private
+P00783,12,Female,Mumbai,Private
+P00784,11,Male,Kalyan,Private
+P00785,44,Male,Mumbai,Private
+P00786,53,Male,Mumbai,Government
+P00787,3,Female,Dombivli,Government
+P00788,62,Female,Kalyan,Private
+P00789,50,Female,Mumbai,Private
+P00790,2,Male,Mumbai,Private
+P00791,9,Female,Pune,Private
+P00792,41,Male,Kalyan,Government
+P00793,66,Male,Navi Mumbai,Government
+P00794,75,Female,Mumbai,Government
+P00795,39,Female,Mumbai,Government
+P00796,27,Female,Mumbai,Self-pay
+P00797,88,Female,Kalyan,Self-pay
+P00798,42,Female,Mumbai,Government
+P00799,29,Male,Mumbai,Private
+P00800,40,Female,Kalyan,Private
+P00801,2,Female,Pune,Self-pay
+P00802,28,Male,Kalyan,Private
+P00803,47,Male,Thane,Private
+P00804,83,Female,Thane,Self-pay
+P00805,67,Male,Thane,Government
+P00806,71,Male,Mumbai,Private
+P00807,50,Male,Thane,Private
+P00808,10,Male,Thane,Private
+P00809,36,Female,Navi Mumbai,Government
+P00810,90,Male,Dombivli,Private
+P00811,4,Female,Pune,Self-pay
+P00812,80,Male,Mumbai,Self-pay
+P00813,62,Male,Thane,Government
+P00814,26,Female,Mumbai,Government
+P00815,71,Female,Thane,Private
+P00816,76,Male,Mumbai,Private
+P00817,4,Male,Mumbai,Government
+P00818,10,Female,Kalyan,Private
+P00819,60,Male,Thane,Private
+P00820,90,Male,Dombivli,Private
+P00821,3,Male,Mumbai,Private
+P00822,60,Female,Mumbai,Private
+P00823,13,Female,Thane,Government
+P00824,59,Male,Mumbai,Self-pay
+P00825,57,Female,Mumbai,Government
+P00826,9,Male,Pune,Self-pay
+P00827,62,Female,Mumbai,Private
+P00828,81,Male,Mumbai,Self-pay
+P00829,78,Female,Navi Mumbai,Government
+P00830,3,Female,Thane,Private
+P00831,23,Male,Navi Mumbai,Self-pay
+P00832,22,Male,Thane,Private
+P00833,41,Male,Dombivli,Private
+P00834,13,Male,Mumbai,Private
+P00835,77,Male,Thane,Private
+P00836,70,Male,Navi Mumbai,Private
+P00837,73,Female,Dombivli,Government
+P00838,18,Male,Thane,Self-pay
+P00839,2,Male,Navi Mumbai,Private
+P00840,82,Female,Mumbai,Government
+P00841,27,Female,Mumbai,Private
+P00842,60,Male,Mumbai,Self-pay
+P00843,82,Female,Kalyan,Private
+P00844,4,Male,Mumbai,Private
+P00845,1,Other/Undisclosed,Kalyan,Government
+P00846,1,Male,Mumbai,Government
+P00847,15,Female,Dombivli,Self-pay
+P00848,5,Female,Dombivli,Government
+P00849,74,Female,Mumbai,Self-pay
+P00850,55,Female,Mumbai,Private
+P00851,89,Male,Mumbai,Private
+P00852,73,Male,Dombivli,Private
+P00853,87,Female,Mumbai,Private
+P00854,22,Female,Navi Mumbai,Private
+P00855,26,Male,Thane,Government
+P00856,77,Female,Kalyan,Private
+P00857,23,Male,Thane,Government
+P00858,6,Female,Thane,Government
+P00859,61,Male,Pune,Government
+P00860,73,Female,Mumbai,Government
+P00861,88,Male,Dombivli,Private
+P00862,84,Female,Mumbai,Private
+P00863,11,Male,Thane,Government
+P00864,70,Female,Dombivli,Government
+P00865,77,Female,Navi Mumbai,Private
+P00866,63,Male,Navi Mumbai,Private
+P00867,74,Female,Mumbai,Government
+P00868,76,Female,Thane,Government
+P00869,41,Female,Thane,Private
+P00870,4,Female,Thane,Private
+P00871,42,Female,Thane,Self-pay
+P00872,19,Male,Mumbai,Private
+P00873,11,Female,Mumbai,Self-pay
+P00874,12,Male,Mumbai,Private
+P00875,63,Male,Thane,Government
+P00876,46,Female,Mumbai,Private
+P00877,49,Male,Dombivli,Private
+P00878,68,Male,Navi Mumbai,Self-pay
+P00879,50,Male,Mumbai,Private
+P00880,57,Female,Navi Mumbai,Self-pay
+P00881,8,Female,Dombivli,Private
+P00882,77,Female,Mumbai,Self-pay
+P00883,41,Male,Mumbai,Self-pay
+P00884,14,Other/Undisclosed,Mumbai,Government
+P00885,74,Male,Mumbai,Private
+P00886,67,Female,Kalyan,Government
+P00887,5,Male,Pune,Government
+P00888,18,Female,Mumbai,Self-pay
+P00889,2,Male,Kalyan,Private
+P00890,25,Female,Mumbai,Private
+P00891,9,Male,Navi Mumbai,Private
+P00892,64,Male,Kalyan,Government
+P00893,48,Female,Thane,Self-pay
+P00894,89,Female,Mumbai,Private
+P00895,68,Male,Navi Mumbai,Government
+P00896,56,Female,Pune,Self-pay
+P00897,46,Male,Mumbai,Private
+P00898,5,Male,Mumbai,Private
+P00899,7,Male,Mumbai,Government
+P00900,56,Female,Navi Mumbai,Government
+P00901,1,Female,Navi Mumbai,Private
+P00902,4,Female,Kalyan,Self-pay
+P00903,20,Male,Kalyan,Government
+P00904,80,Female,Dombivli,Self-pay
+P00905,42,Female,Kalyan,Self-pay
+P00906,64,Female,Mumbai,Self-pay
+P00907,38,Male,Navi Mumbai,Government
+P00908,16,Female,Mumbai,Private
+P00909,34,Male,Mumbai,Government
+P00910,9,Male,Pune,Private
+P00911,70,Male,Navi Mumbai,Government
+P00912,17,Male,Pune,Private
+P00913,34,Male,Thane,Government
+P00914,89,Male,Thane,Private
+P00915,54,Female,Thane,Private
+P00916,42,Male,Mumbai,Private
+P00917,49,Male,Mumbai,Government
+P00918,71,Male,Thane,Self-pay
+P00919,23,Male,Mumbai,Private
+P00920,58,Male,Pune,Self-pay
+P00921,79,Male,Mumbai,Self-pay
+P00922,52,Female,Mumbai,Private
+P00923,41,Female,Kalyan,Government
+P00924,14,Female,Mumbai,Private
+P00925,23,Female,Dombivli,Private
+P00926,86,Female,Kalyan,Government
+P00927,49,Female,Mumbai,Private
+P00928,28,Female,Navi Mumbai,Self-pay
+P00929,38,Male,Navi Mumbai,Self-pay
+P00930,53,Female,Kalyan,Self-pay
+P00931,49,Male,Dombivli,Government
+P00932,63,Male,Kalyan,Government
+P00933,24,Female,Navi Mumbai,Self-pay
+P00934,59,Female,Mumbai,Private
+P00935,40,Female,Navi Mumbai,Private
+P00936,85,Male,Pune,Government
+P00937,15,Female,Navi Mumbai,Private
+P00938,14,Male,Navi Mumbai,Private
+P00939,42,Male,Thane,Private
+P00940,46,Male,Kalyan,Government
+P00941,63,Female,Pune,Private
+P00942,37,Female,Mumbai,Private
+P00943,83,Female,Mumbai,Private
+P00944,43,Female,Thane,Private
+P00945,12,Female,Thane,Self-pay
+P00946,11,Male,Navi Mumbai,Private
+P00947,88,Male,Mumbai,Government
+P00948,13,Male,Thane,Self-pay
+P00949,86,Male,Navi Mumbai,Private
+P00950,26,Female,Navi Mumbai,Self-pay
+P00951,9,Male,Navi Mumbai,Government
+P00952,28,Male,Kalyan,Government
+P00953,56,Male,Navi Mumbai,Private
+P00954,39,Male,Kalyan,Private
+P00955,71,Female,Navi Mumbai,Self-pay
+P00956,55,Female,Thane,Self-pay
+P00957,37,Female,Navi Mumbai,Self-pay
+P00958,58,Female,Mumbai,Self-pay
+P00959,88,Male,Mumbai,Private
+P00960,38,Female,Thane,Self-pay
+P00961,14,Male,Dombivli,Private
+P00962,37,Male,Navi Mumbai,Self-pay
+P00963,76,Female,Mumbai,Private
+P00964,20,Female,Navi Mumbai,Private
+P00965,86,Male,Mumbai,Self-pay
+P00966,53,Male,Kalyan,Self-pay
+P00967,55,Female,Dombivli,Government
+P00968,29,Female,Navi Mumbai,Private
+P00969,83,Male,Navi Mumbai,Private
+P00970,4,Female,Mumbai,Self-pay
+P00971,27,Male,Thane,Private
+P00972,38,Female,Dombivli,Private
+P00973,43,Female,Kalyan,Government
+P00974,43,Male,Thane,Private
+P00975,14,Male,Thane,Government
+P00976,21,Male,Mumbai,Private
+P00977,9,Female,Mumbai,Self-pay
+P00978,52,Other/Undisclosed,Mumbai,Self-pay
+P00979,32,Female,Thane,Self-pay
+P00980,51,Female,Pune,Government
+P00981,54,Female,Thane,Private
+P00982,64,Female,Mumbai,Government
+P00983,50,Male,Mumbai,Self-pay
+P00984,59,Female,Mumbai,Government
+P00985,53,Male,Kalyan,Government
+P00986,59,Female,Thane,Government
+P00987,56,Other/Undisclosed,Kalyan,Government
+P00988,29,Female,Kalyan,Government
+P00989,23,Male,Mumbai,Private
+P00990,71,Female,Navi Mumbai,Government
+P00991,31,Female,Pune,Government
+P00992,50,Male,Thane,Private
+P00993,18,Male,Mumbai,Self-pay
+P00994,39,Male,Pune,Government
+P00995,48,Female,Dombivli,Private
+P00996,57,Male,Thane,Self-pay
+P00997,48,Male,Navi Mumbai,Government
+P00998,33,Male,Mumbai,Self-pay
+P00999,87,Female,Kalyan,Private
+P01000,47,Male,Thane,Self-pay

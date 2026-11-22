@@ -1,0 +1,41 @@
+doctor_id,doctor_name,department_id,doctor_grade
+DR001,Doctor 01,D01,Specialist
+DR002,Doctor 02,D02,Consultant
+DR003,Doctor 03,D03,Consultant
+DR004,Doctor 04,D04,Specialist
+DR005,Doctor 05,D05,Senior Consultant
+DR006,Doctor 06,D06,Consultant
+DR007,Doctor 07,D07,Consultant
+DR008,Doctor 08,D08,Consultant
+DR009,Doctor 09,D01,Specialist
+DR010,Doctor 10,D02,Consultant
+DR011,Doctor 11,D03,Specialist
+DR012,Doctor 12,D04,Specialist
+DR013,Doctor 13,D05,Specialist
+DR014,Doctor 14,D06,Consultant
+DR015,Doctor 15,D07,Specialist
+DR016,Doctor 16,D08,Senior Consultant
+DR017,Doctor 17,D01,Consultant
+DR018,Doctor 18,D02,Consultant
+DR019,Doctor 19,D03,Consultant
+DR020,Doctor 20,D04,Consultant
+DR021,Doctor 21,D05,Consultant
+DR022,Doctor 22,D06,Specialist
+DR023,Doctor 23,D07,Specialist
+DR024,Doctor 24,D08,Consultant
+DR025,Doctor 25,D01,Specialist
+DR026,Doctor 26,D02,Consultant
+DR027,Doctor 27,D03,Specialist
+DR028,Doctor 28,D04,Specialist
+DR029,Doctor 29,D05,Specialist
+DR030,Doctor 30,D06,Specialist
+DR031,Doctor 31,D07,Senior Consultant
+DR032,Doctor 32,D08,Consultant
+DR033,Doctor 33,D01,Senior Consultant
+DR034,Doctor 34,D02,Specialist
+DR035,Doctor 35,D03,Senior Consultant
+DR036,Doctor 36,D04,Consultant
+DR037,Doctor 37,D05,Consultant
+DR038,Doctor 38,D06,Specialist
+DR039,Doctor 39,D07,Senior Consultant
+DR040,Doctor 40,D08,Senior Consultant
